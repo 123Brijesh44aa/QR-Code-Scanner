@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR code Scanner</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+    <string name="open_camera">open camera to scan QR code</string>
+    <string name="open_gallery">Open Gallery to read QR Code</string>
+    <string name="hello_world_and_brijesh_mourya">hello world and brijesh mourya</string>
+</resources>
